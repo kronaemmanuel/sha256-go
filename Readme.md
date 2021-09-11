@@ -7,7 +7,7 @@ This project is part of small fun experiments I do to challenge and improve my c
 # How to run
 - Clone the repo
 - Make sure you have Go [installed](https://golang.org/doc/install)
-- Go the the project directory
+- Go to the project directory
 - Run `go run .`
 
 You'll have to change the string inside the code itself, to be able to get a different hash at the end. the code output shows a lot of different things, the hash will be given at the end. For example, when I was testing, and put in the password to my bank account, it gave me this hash at the end:
