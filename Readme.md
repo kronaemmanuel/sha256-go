@@ -19,6 +19,7 @@ ec894281e55b2adf4b55f27cee33812bd4ac98ae65b21f4bf3e272b5567f5222
 # Resources:
 Main guide I used was:
 - [Qvault: How SHA-256 works guide](https://qvault.io/cryptography/how-sha-2-works-step-by-step-sha-256/)
+
 Other very useful resources were:
   - [Go Docs: Getting Started](https://golang.org/doc/tutorial/getting-started)
   - [Go Docs: Create a Module](https://golang.org/doc/tutorial/create-module)
