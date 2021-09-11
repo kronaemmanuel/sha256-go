@@ -1,6 +1,6 @@
 # SHA-256 in Go
 
-This is not a serious/efficient implementation of Go. This is just for learning purposes, which you can probably tell because I'm using strings to hold data instead of storing it in binary/hex form.
+This is not a serious/efficient implementation of SHA-256 in Go. You can use the [official package](https://pkg.go.dev/crypto/sha256) for that. This is just for learning purposes, which you can probably tell because I'm using strings to hold data instead of storing it in binary/hex form.
 
 This project is part of small fun experiments I do to challenge and improve my coding skills. I write about these experiments on my [blog](https://www.kronaemmanuel.com/blog). You can visit the blog post about this project [here](https://www.kronaemmanuel.com/2021/09/12/Implementing-SHA-256-in-Go-lang.html)
 
